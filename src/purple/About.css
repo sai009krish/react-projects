@@ -1,0 +1,25 @@
+.about{
+    display: flex;
+    height: 90vh;
+    align-items: center;
+    flex: 2;
+}
+
+.content h2{
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  color: rgb(87, 42, 129);
+  border-bottom: 3px solid rgb(119, 48, 185);
+  display: inline;
+  margin-bottom: 20px;
+  margin-left: 20px;
+}
+.content p{
+    margin-top: 50px;
+    letter-spacing: 1px;
+    margin-left: 20px;
+    font-size: larger;
+}
+.img img{
+    width: 70vw;
+    height: 50vh;
+}

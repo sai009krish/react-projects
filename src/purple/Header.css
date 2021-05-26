@@ -1,0 +1,30 @@
+.nav{
+    display: flex;
+    justify-content: space-evenly;
+}
+.nav .logo{
+    display: flex;
+    justify-content: space-between;
+    height: 50px;
+    line-height: 40px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.nav h2 span{
+     color: blueviolet;
+}
+.logo img{
+   width: 40px;
+   height: 40px;  
+}
+.nav .nav-bar{
+    display: flex;
+    width: 770px;
+    height: 50px;
+    justify-content: space-around;
+    line-height: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.nav .nav-bar a{
+    text-decoration: none;
+    color: rgb(139, 126, 126);
+}

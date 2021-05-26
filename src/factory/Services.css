@@ -1,0 +1,42 @@
+.services{
+   background-color: skyblue;
+   display: flex;
+   justify-content: space-evenly; 
+    height: 100vh;
+    align-items: center;
+}
+.services>div{
+    width: 25vw;
+    height: 60vh;
+    background-color: white;
+    text-align: center;
+}
+.services>div>img{
+     width: 7vw;
+     margin-left: 27px;
+     margin-top: 50px;
+     background-color: skyblue;
+}
+.services>div>h2{
+      font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+     margin-top: 10px;
+}
+.services>div>p{
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+      margin-bottom: 27px;
+}
+.services>div>a{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-decoration: none;
+    background-color: skyblue;
+    color: white;
+    padding: 10px 10px;
+    border-radius: 12px;
+}
+
+
+
+
+
+
+

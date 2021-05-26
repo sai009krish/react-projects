@@ -1,0 +1,29 @@
+.home{
+    background-image: url(images/banner-bg.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    height: 100vh;
+    max-width: 105vw;
+    display: flex;
+    justify-content: space-evenly;
+    color: white;
+}
+.home h2{
+    margin-top: 90px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 50px;
+}
+.home p{
+     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+     letter-spacing: 1px;
+     margin-top: 97px; 
+     margin-bottom: 127px;     
+    
+}
+.home a{
+    text-decoration: none;
+    color: white;
+    background-color: tomato;
+    padding: 10px 15px;
+    border-radius: 17px;  
+}

@@ -1,0 +1,24 @@
+.about{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 15px;
+}
+.about h2{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 37px;
+    margin-top: 50px;
+}
+.about p {
+    letter-spacing: 1px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 57px;
+    margin-bottom:90px;
+}
+.about a{
+    text-decoration: none;
+    background-color: skyblue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+    padding: 10px 5px;
+    border-radius: 12px;
+}

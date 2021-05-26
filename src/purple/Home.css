@@ -1,0 +1,22 @@
+.home h1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: blueviolet;
+    margin-top: 120px;
+   }
+.home p{
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-bottom: 170px;
+    margin-top: 100px;
+   }
+.home a{
+   text-decoration: none;
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   border: 2px solid blueviolet;
+   line-height: 35px;
+   text-align: center;
+   margin-left: 7%;
+   width: 130px;
+   padding: 15px 20px;
+   height: 35px;
+   border-radius: 30px;     
+  }

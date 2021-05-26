@@ -1,0 +1,32 @@
+.work{
+  background-image: url(img/banner-bg-02.jpg);
+  height: 100vh;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center
+}
+.work h2{
+ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+ border-bottom: 3px solid rgb(153, 153, 228);
+ font-size: 50px;
+ margin-top: 25px;
+}
+.work h3{
+ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+ font-size: 30px;  
+ margin-top: 25px;
+}
+.work p{
+ font-family: 'Courier New', Courier, monospace;
+ margin-top: 30px;   
+}
+.work a{
+text-decoration: none;
+border: 1px solid white;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+color: white;
+border-radius: 20px;
+padding: 10px 15px;
+margin-top: 20px;
+}

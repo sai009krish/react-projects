@@ -1,0 +1,17 @@
+ .Content {
+     display: flex;
+     justify-content: space-between;
+     align-items: center;
+     padding: 10px;
+ }
+
+ .Content .Content-col{
+    width: 300px;
+    height: 400px;
+    border: 1px solid tomato;
+    border-radius: 20px;
+    box-shadow: 2px 4px 8px black;
+    text-align: center;
+    padding: 10px;
+
+ }

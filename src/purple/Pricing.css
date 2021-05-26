@@ -1,0 +1,21 @@
+.pricing h2{
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   margin-left: 60px;
+}
+.pricing p{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+text-align: center;
+margin-top: 5px;
+}
+.plans{
+    display: flex;
+    justify-content: space-evenly;
+}
+.plans>div{
+    height: 35vh;
+    width: 15vw;
+    margin-top: 10px;
+    box-shadow: 3px 3px 4px 4px rgb(170, 163, 163);
+}
+
+

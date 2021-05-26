@@ -1,0 +1,47 @@
+.menu h2{
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+margin-top: 2%;
+margin-bottom: 2%;
+margin-left:5% ;
+}
+.menu h1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left:5% ;
+}
+.menu-imgs{
+display: flex;
+justify-content: space-around;
+flex-wrap: wrap;
+margin-top: 2%;
+}
+.menu-imgs> div{
+height: 57vh;
+width: 18vw;
+background-size: 100% 100%;
+background-repeat: no-repeat;
+}
+.menu-imgs>div>p{
+    background-color: tomato;
+    width: 70px;
+    height: 60px;
+    color: white;
+    font-size: 25px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+.menu-01{
+background-image: url(images/menu-item-01.jpg);
+}
+.menu-02{
+background-image: url(images/menu-item-02.jpg);
+}
+.menu-03{
+background-image: url(images/menu-item-03.jpg);    
+}
+.menu-04{
+background-image: url(images/menu-item-04.jpg);   
+}
+.menu-05{
+background-image: url(images/menu-item-03.jpg);  
+}

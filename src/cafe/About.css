@@ -1,0 +1,19 @@
+.about{
+    display: flex;
+    justify-content: space-around;
+}
+.about .left1{
+    margin-top: 7%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+} 
+.thumbs{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.about .left1 h2{
+    border-left: 2px solid tomato;
+}
+.about .left1 h1{
+     font-size: 30px;
+}
